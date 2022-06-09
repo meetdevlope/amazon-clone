@@ -1,0 +1,6 @@
+{
+    "doubleQuote": true,
+    "printWidth": 60,
+    "bracketSameLine": true,
+    "arrowParens": "avoid"
+}
