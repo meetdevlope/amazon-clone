@@ -46,7 +46,7 @@ const HamburgerClick = () => {
           </div>
       </div>
       <div className="logo-container">
-        <img src="/Assets/Amazon_logo.svg" alt="logo" className="h-7 md:h-6" />
+        <img src="https://www.pinclipart.com/picdir/big/358-3584545_amazon-web-services-logo-png-transparent-svg-vector.png" alt="logo" className="h-7 md:h-6" />
       </div>
       <form className="search-bar flex flex-1 mx-6 items-stretch">
         <input type="text" className="w-full border-0 h-9 rounded-l-md" />
